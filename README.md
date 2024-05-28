@@ -8,13 +8,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></img> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></img> 
   <img src="https://miro.medium.com/v2/resize:fit:402/1*KTDZHTVaVbvbyhIf2PmBAw.png" alt="mssql" width="45" height="45"/></img>  
-  <img src="https://xtglobal.com/wp-content/uploads/automation-anywhere-logo-3.png" width="90" height="35"/>
+  <img src="https://xtglobal.com/wp-content/uploads/automation-anywhere-logo-3.png" alt="RPA"  width="90" height="35"/>
   <br>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" width="40" height="40">  
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="40" height="40">  
-  <img src="http://photos.prnewswire.com/prnfull/20130611/LA29592LOGO?max=200" width="120" height="30">  
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/253220886-02494c7c-de6a-43a6-9293-6369696842ed.png" width="45" height="45"/> 
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE27-yHi2W1WxuEEwqNewlyTpGjKmBl2b2bA&s" width="50" height="50"/> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="VS"  width="40" height="40">  
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VC"  width="40" height="40">  
+  <img src="http://photos.prnewswire.com/prnfull/20130611/LA29592LOGO?max=200" alt="Dev"  width="140" height="30">  
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/253220886-02494c7c-de6a-43a6-9293-6369696842ed.png" alt="Canva"  width="45" height="45"/> 
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE27-yHi2W1WxuEEwqNewlyTpGjKmBl2b2bA&s" alt="Crystal"  width="50" height="50"/> 
 </div>
 
 
