@@ -4,11 +4,11 @@
 <div align="left">
   <img src="https://www.svgrepo.com/show/374157/vb.svg" alt="VB" width="40" height="40"/></img> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="Csharp" width="40" height="40"/></img> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></img> 
+  <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" width="40" height="40"/></img> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></img> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></img> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></img> 
-  <img src="https://miro.medium.com/v2/resize:fit:402/1*KTDZHTVaVbvbyhIf2PmBAw.png" alt="mssql" width="45" height="45"/></img>  
+  <img src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="mssql" width="45" height="45"/></img>  
   <img src="https://xtglobal.com/wp-content/uploads/automation-anywhere-logo-3.png" alt="RPA"  width="90" height="35"/>
   <br>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="VS"  width="40" height="40">  
@@ -16,6 +16,10 @@
   <img src="http://photos.prnewswire.com/prnfull/20130611/LA29592LOGO?max=200" alt="Dev"  width="140" height="30">  
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/253220886-02494c7c-de6a-43a6-9293-6369696842ed.png" alt="Canva"  width="45" height="45"/> 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE27-yHi2W1WxuEEwqNewlyTpGjKmBl2b2bA&s" alt="Crystal"  width="50" height="50"/> 
+  <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm"  width="50" height="50"/> 
+  <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript"  width="50" height="50"/> 
+  <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="Csharp"  width="50" height="50"/> 
+  <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js"  width="50" height="50"/> 
 </div>
 
 
